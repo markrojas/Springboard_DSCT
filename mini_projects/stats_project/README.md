@@ -1,0 +1,8 @@
+Statistical Inference Exercises
+
+
+EDA_Human_Temperatures
+	* sliderule_dsi_inferential_statistics_exercise_1.ipynb
+EDA_Racial_Discrimination
+	* sliderule_dsi_inferential_statistics_exercise_2.ipynb
+Hospital_Readmissions
