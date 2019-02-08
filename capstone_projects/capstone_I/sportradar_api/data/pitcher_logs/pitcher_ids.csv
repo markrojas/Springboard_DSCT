@@ -1,21 +1,3 @@
-first_name,last_name,preferred_name,id
-Aaron,Nola,Aaron,ded1b30d-52ca-4eec-bce6-251b15b085ac
-Carlos,Carrasco,Carlos,683ac24d-7777-478b-8417-d0eb3cb04e83
-Carlos,Martinez,Carlos,b2ee4a6d-1936-4a37-b556-d196ac9615ca
-Christopher,Archer,Chris,79b77d44-2221-4a47-b52a-784d9d894761
-Christopher,Sale,Chris,66c43b7f-760a-446c-9f50-671915570227
-Clayton,Kershaw,Clayton,d3351c6e-12cf-4ab5-b651-ad23d49c4245
-Corey,Kluber,Corey,48982279-0e43-4d94-95fb-fd5e623b54b6
-Dallas,Keuchel,Dallas,77bb98d3-51ff-40c4-89cb-219ff98496f5
-David,Price,David,875b903a-aabd-424e-b70e-1aa46a7334bc
-Gerrit,Cole,Gerrit,eebc991a-23ea-4f1c-ba3b-37ff21ee1603
-Jacob,deGrom,Jacob,e5cfe3b2-6596-4f08-bba7-f107ecae63c2
-Jacob,Arrieta,Jake,772dc88a-0c6d-40c3-b176-ed8a791bf108
-Jose,Quintana,Jose,b1e3b804-0022-40bc-8f53-8c82ee4eb1b9
-Justin,Verlander,Justin,2fe6cb9b-c41e-4ee2-9b22-f8b27bf6c5be
-Marcus,Stroman,Marcus,cc86d4d3-1618-415e-b7fc-a303f3b8dd6f
-Maxwell,Scherzer,Max,2527770b-cf48-42b9-81fa-9323756fb311
-Michael,Fulmer,Michael,ec504c95-8a64-46ad-91ae-850c6e7350db
-Stephen,Strasburg,Stephen,8df4f3bd-61f2-4fbf-8266-80ba7e15dc2d
-Yu,Darvish,Yu,cc672f14-6c84-4dde-8beb-90664d467843
-Donald,Greinke,Zack,ba554801-7322-487c-a998-74fd132712e8
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd1adedf1695e09167f03e4caa7fc90fe91a30cbcda7067c923bb47a22858751
+size 1199
