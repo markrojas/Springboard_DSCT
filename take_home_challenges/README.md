@@ -1,4 +1,5 @@
 The Take-Home Challenge
+
 Most companies hiring for data science positions nowadays send a take-home assignment as part of the interview process. 
 Here are a couple of 'real-world' take-home assignments I worked on, all from well-known companies.
 
