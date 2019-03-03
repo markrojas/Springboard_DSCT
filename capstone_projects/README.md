@@ -1,6 +1,6 @@
-Collection of Capstone Projects for Springboard Data Science Career Track.
+<h1>Collection of Capstone Projects for Springboard Data Science Career Track.</h1>
 
-Project I: Pitch Prediction - Can we predict the next pitch?
+<b>Project I: Pitch Prediction - Can we predict the next pitch?</b>
 
 Major League Baseball (MLB) attendance dropped more than 6% this year (2018), continuing a steady decline.
 While some clubs saw a jump in attendance, 17 of the 30 franchises sold fewer tickets than they did last year.
@@ -13,7 +13,7 @@ Objective is to increase in-game action and as a result, increase attendance and
 
 
 
-Project II: Disease Spread - Predicting the next outbreak of Dengue Fever.
+<b>Project II: Disease Spread - Predicting the next outbreak of Dengue Fever.</b>
 
 Dengue fever is a disease caused by any one of four closely related dengue viruses (DENV 1, DENV 2, DENV 3, or DENV 4). 
 The viruses are transmitted to humans by the bite of an infected Aedes aegypti or Aedes albopictus mosquito. 
