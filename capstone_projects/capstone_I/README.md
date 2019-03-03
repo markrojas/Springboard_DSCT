@@ -1,38 +1,43 @@
-Predict Pitch Thrown by Major League Baseball 
-(MLB) Starting Pitchers Using Machine Learning
+<h1>Predict Pitch Thrown by Major League Baseball (MLB) Starting Pitchers Using Machine Learning</h1>
 
-Capstone I Project for Springboard Data Science Career Track
+<b>Capstone I Project for Springboard Data Science Career Track</b>
 -Mark Rojas
 
-Repository Contents
+<u><b>Repository Contents</b></u>
 
-Reports:
-01_Capstone_I_Ideas 
-	- List of proposed idead before selecting Pitch Prediction
-02_Capstone_I_Project_Data_Wrangling 
-	- Data description and steps to obtain and clean
-03_Capstone_I_Project_Milestone_Report
-	- Midpoint report
-04_Capstone_I_Project_In_Depth_Analysis
-	- Detailed description on EDA
-05_Capstone_I_Project_Final_Report
-	- Final report for delivery
+<u><b>Reports:</b></u>
+<ul>
+<li>01_Capstone_I_Ideas</li> 
+<blockquote>- List of proposed idead before selecting Pitch Prediction</blockquote>
+<li>02_Capstone_I_Project_Data_Wrangling</li> 
+<blockquote>- Data description and steps to obtain and clean</blockquote>
+<li>03_Capstone_I_Project_Milestone_Report</li>
+<blockquote>- Midpoint report</blockquote>
+<li>04_Capstone_I_Project_In_Depth_Analysis</li>
+<blockquote>- Detailed description on EDA</blockquote>
+<li>05_Capstone_I_Project_Final_Report</li>
+<blockquote>- Final report for delivery</blockquote>
+</ul>
 
-Presentations:
-06_Capstone_I_Pitch_Prediction_Slidedeck
-	- Powerpoint slides covering purpose and findings from project
+<u><b>Presentations:</b></u>
+<ul>
+<li>06_Capstone_I_Pitch_Prediction_Slidedeck</li>
+<blockquote>- Powerpoint slides covering purpose and findings from project</blockquote>
+</ul>
 
-Code (in notebooks/ folder): 
-01_data_mining_pt1
-01_data_mining_pt2
-	- Code used to access and store the data required for analysis
-02_data_wrangling_pt1
-02_data_wringling_pt2
-	- Code used to clean and transform data for downstream analysis
-03_data_exploration
-	- Code used to determine hypothesis and visualize data
-04_predictive_modeling
-	- Code used for feature engineering, training/testing data and measuring model performance
+<u><b>Code (in notebooks/ folder):</b></u>
+<ul>
+<li>01_data_mining_pt1</li>
+<li>01_data_mining_pt2</li>
+<blockquote>- Code used to access and store the data required for analysis</blockquote>
+<li>02_data_wrangling_pt1</li>
+<li>02_data_wringling_pt2</li>
+<blockquote>- Code used to clean and transform data for downstream analysis</blockquote>
+<li>03_data_exploration</li>
+<blockquote>- Code used to determine hypothesis and visualize data</blockquote>
+<li>04_predictive_modeling</li>
+<blockquote>- Code used for feature engineering, training/testing data and measuring model performance</blockquote>
+</ul>
 
-Data (in data/ folder):
-	- Most data is excluded due to file size but available upon request
+<u><b>Data (in data/ folder):</b></u>
+<blockquote>- Most data is excluded due to file size but available upon request</blockquote>
