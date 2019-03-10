@@ -29,7 +29,7 @@
     <blockquote>- Powerpoint slides covering Purpose, Data, and EDA</blockquote>
 </ul>
 
-<u><b>Code:</b></u>
+<u><b>Code:</b></u><p>
 <u><b> notebooks/ </b></u>
 <ul>
   <li>01_Data_Mining_and_Wrangling</li>
@@ -38,7 +38,7 @@
     <blockquote>- Code used to determine hypothesis and visualize data</blockquote>
 </ul>
 
-<u><b>Data:</b></u> 
+<u><b>Data:</b></u><p>
 <u><b> data/ </b></u>
 <ul>
   <li>dengue_features_test.csv</li>
