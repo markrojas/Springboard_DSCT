@@ -1,7 +1,7 @@
 <h1>Disease Spread</h1>
 <h2>Predicting the spread of Dengue using Machine Learning</h2>
 
-<b>Capstone II Project for Springboard Data Science Career Track</b>
+<b>Capstone II Project for Springboard Data Science Career Track</b><p>
 -Mark Rojas
 
 <u><b>Repository Contents</b></u>
