@@ -21,12 +21,24 @@
       <li>Exploratory Data Analysis</li>
       <li>Next Steps</li>
     </ul>
+  <li>Capstone_II_Dengue_Prediction_Milestone_Report_2</li>
+    <blockquote>- Report covering:</blockquote>
+    <ul>
+      <li>Problem Statement</li>
+      <li>Goal</li>
+      <li>Data Cleaning & Wrangling</li>
+      <li>Exploratory Data Analysis</li>
+      <li>Predictive Modeling</li>
+      <li>Next Steps</li>
+    </ul>
 </ul>
 
 <u><b>Presentations:</b></u>
 <ul>
   <li>Capstone_II_Dengue_Prediction_Milestone_Slidedeck_1</li>
     <blockquote>- Powerpoint slides covering Purpose, Data, and EDA</blockquote>
+  <li>Capstone_II_Dengue_Prediction_Milestone_Slidedeck_2</li>
+    <blockquote>- Powerpoint slides covering Purpose, Data, EDA, and Modeling</blockquote>
 </ul>
 
 <u><b>Code:</b></u><p>
@@ -36,6 +48,8 @@
     <blockquote>- Code used to Access, Clean and Transform data for downstream analysis</blockquote>
   <li>02_Exploratory_Data_Analysis</li>
     <blockquote>- Code used to determine hypothesis and visualize data</blockquote>
+  <li>03_Modeling</li>
+    <blockquote>- Code used to do feature selection, train models, measure performance</blockquote>
 </ul>
 
 <u><b>Data:</b></u><p>
