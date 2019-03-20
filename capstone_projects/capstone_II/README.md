@@ -31,6 +31,17 @@
       <li>Predictive Modeling</li>
       <li>Next Steps</li>
     </ul>
+  <li>Capstone_II_Dengue_Prediction_Final_Report</li>
+    <blockquote>- Report covering:</blockquote>
+    <ul>
+      <li>Problem Statement</li>
+      <li>Goal</li>
+      <li>Data Cleaning & Wrangling</li>
+      <li>Exploratory Data Analysis</li>
+      <li>Predictive Modeling</li>
+      <li>Advanced Predictive Modeling</li>
+      <li>Conclusion</li>
+    </ul>
 </ul>
 
 <u><b>Presentations:</b></u>
@@ -39,6 +50,8 @@
     <blockquote>- Powerpoint slides covering Purpose, Data, and EDA</blockquote>
   <li>Capstone_II_Dengue_Prediction_Milestone_Slidedeck_2</li>
     <blockquote>- Powerpoint slides covering Purpose, Data, EDA, and Modeling</blockquote>
+  <li>Capstone_II_Dengue_Prediction_Final_Slidedeck</li>
+    <blockquote>- Powerpoint slides covering Purpose, Data, EDA, Modeling, and Advanced Modeling</blockquote>
 </ul>
 
 <u><b>Code:</b></u><p>
@@ -50,6 +63,8 @@
     <blockquote>- Code used to determine hypothesis and visualize data</blockquote>
   <li>03_Modeling</li>
     <blockquote>- Code used to do feature selection, train models, measure performance</blockquote>
+  <li>04_Advanced_Predictive_Modeling</li>
+    <blockquote>- Code used to do feature selection, train models, measure performance of advanced models</blockquote>
 </ul>
 
 <u><b>Data:</b></u><p>
@@ -65,4 +80,11 @@
   <li>dengue_iq_cleaned_labels_train.csv</li>
   <li>dengue_sj_cleaned_features_train.csv</li>
   <li>dengue_sj_cleaned_labels_train.csv</li>
+</ul>
+<u><b> data/shifted/ </b></u>
+<ul>
+  <li>dengue_iq_shifted_test.csv</li>
+  <li>dengue_iq_shifted_train.csv</li>
+  <li>dengue_sj_shifted_test.csv</li>
+  <li>dengue_sj_shifted_train.csv</li>
 </ul>
