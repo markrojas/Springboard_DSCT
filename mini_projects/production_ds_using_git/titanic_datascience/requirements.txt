@@ -17,7 +17,7 @@ feedparser==5.2.1
 fire==0.1.2
 guacamole==0.9.2
 html5lib==1.0.1
-httplib2==0.9.2
+httplib2==0.19.0
 idna==2.6
 ipykernel==4.8.0
 ipython==6.2.1
